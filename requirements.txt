@@ -1,0 +1,6 @@
+# Requirements for Tableau
+pandas==1.1.5
+pantab==1.1.1
+python-dotenv==0.17.1
+snowflake-connector-python==2.7.0
+pyarrow==5.0.0

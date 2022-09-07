@@ -1,0 +1,1 @@
+* * * * * cd /usr/src/tableau_online_usage && /usr/local/bin/python upload_tableau_online_usage_data.py 2>&1 | tee /usr/src/tableau_online_usage/logs/upload_tableau_online_usage-`date +\%m-\%d_\%H_\%M`.log
